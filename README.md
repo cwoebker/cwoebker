@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there from Munich 👋 
+
+- 🔭 I’m currently working on Co-Founder ⚒ [remberg](https://github.com/rembergtech) 🐻 We are hiring! 
+- 📫 How to reach me: [@cwoebker](https://twitter.com/cwoebker)
 
 <!--
 **cwoebker/cwoebker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
