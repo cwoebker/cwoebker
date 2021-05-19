@@ -1,6 +1,6 @@
 ### Hi there from Munich 👋 
 
-- 🔭 I’m currently working on Co-Founder ⚒ [remberg](https://github.com/rembergtech) 🐻 We are hiring! 
+- 🔭 I’m currently the Co-Founder ⚒ [remberg](https://github.com/rembergtech) 🐻 We are hiring! 
 - 📫 How to reach me: [@cwoebker](https://twitter.com/cwoebker)
 
 <!--
